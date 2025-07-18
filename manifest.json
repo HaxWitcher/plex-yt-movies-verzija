@@ -1,0 +1,21 @@
+{
+  "id": "org.example.youtube",
+  "version": "1.0.0",
+  "name": "YouTube - Full HD (1080p)",
+  "description": "YouTube video bez oglasa",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "yt-sheet",
+      "name": "YouTube Video"
+    }
+  ]
+}
